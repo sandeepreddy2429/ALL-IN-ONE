@@ -6,6 +6,8 @@ function App() {
       <h1>Names</h1>
       <hr />
       <p>Praveen</p>
+      <p>Sagar</p>
+      <p>Sandeep</p>
     </>
   )
 }
